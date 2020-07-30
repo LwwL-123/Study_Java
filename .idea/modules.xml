@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code.iml" filepath="$PROJECT_DIR$/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo01/Demo01.iml" filepath="$PROJECT_DIR$/Demo01/Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo02/Demo02.iml" filepath="$PROJECT_DIR$/Demo02/Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo03/Demo03.iml" filepath="$PROJECT_DIR$/Demo03/Demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo04_Array/Demo04_Array.iml" filepath="$PROJECT_DIR$/Demo04_Array/Demo04_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo05_duixiang/Demo05_duixiang.iml" filepath="$PROJECT_DIR$/Demo05_duixiang/Demo05_duixiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo06_Privarte/Demo06_Privarte.iml" filepath="$PROJECT_DIR$/Demo06_Privarte/Demo06_Privarte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo07_Student/Demo07_Student.iml" filepath="$PROJECT_DIR$/Demo07_Student/Demo07_Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo08_API/Demo08_API.iml" filepath="$PROJECT_DIR$/Demo08_API/Demo08_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo09_Annoymous/Demo09_Annoymous.iml" filepath="$PROJECT_DIR$/Demo09_Annoymous/Demo09_Annoymous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo10_AnnoyList/Demo10_AnnoyList.iml" filepath="$PROJECT_DIR$/Demo10_AnnoyList/Demo10_AnnoyList.iml" />
+    </modules>
+  </component>
+</project>
